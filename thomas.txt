@@ -3,8 +3,13 @@ thomas peña
 marzo 18
 uc
 dymetek
-- 1000 tarjetas x dia (cyber)
+
+
+
+----- revert 1
+
 1.80
 cra 116 #152
 ing electronica - nocturna
 tenis patiño
+
