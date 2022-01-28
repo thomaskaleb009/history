@@ -12,6 +12,6 @@ Dymetek:7:30 - 5:30
 ing electronica - nocturna
 tenis 2 años ---> patiño
 
-attempt 1 merge a branch paralelo
+attempt 1 merge a branch paralelo (no salio merge en log)
 
 
